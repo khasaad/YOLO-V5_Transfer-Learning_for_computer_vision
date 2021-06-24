@@ -2,7 +2,7 @@
 
 Key words: Deep Learning, Computer Vision, Object Detection, Neural Network, Python.
 
-In this project, you’ll learn how to fine-tune a pre-trained <a href='https://github.com/ultralytics/yolov5'>YOLO v5</a> model for detecting and classifying fruits items from images.
+In this project, you’ll learn how to fine-tune a pre-trained <a href='https://github.com/ultralytics/yolov5'>YOLO v5</a> model for object detection on Custom Dataset with YOLO (v5) using PyTorch and Python.
 
 Here’s what we’ll go over:
 
@@ -51,3 +51,13 @@ Here’s what we’ll go over:
 
 </code></pre>
 
+# Fine-tune a pre-trained <a href='https://github.com/ultralytics/yolov5'>YOLO v5</a> model for detecting and classifying fruits items from images.
+
+<p>We will use google colab file <a href='https://github.com/khasaad/YOLO-V5_Transfer-Learning_for_computer_vision/blob/main/Transfer_Learning_fine_tune_with_YOLOv5.ipynb'>Transfer_Learning_fine_tune_with_YOLOv5.ipynb</a>:</p>
+<ul>
+<li>1. Make folder <a href='https://github.com/khasaad/YOLO-V5_Transfer-Learning_for_computer_vision/tree/main/deep_fruits_data'>deep_fruits_data</a> with unzip format, then put it on the workspace of google colab, once the download of unzip file is finished, unzip it. (you will find the command line to unzip folder in google colab file)</li>
+<li>2. Install Python >= 3.6.0 required with all requirements.txt dependencies installed</li>
+  <pre>$ git clone https://github.com/ultralytics/yolov5
+$ <span class="pl-c1">cd</span> yolov5
+$ pip install -r requirements.txt</pre>
+</ul>
