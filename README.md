@@ -65,12 +65,12 @@ $ <span class="pl-c1">cd</span> yolov5
 $ pip install -r requirements.txt</pre></li>
 <li>Add deep_fruits_yaml.yaml file in the following directory yolov5/data/ to obtain this path: yolov5/data/deep_fruits_yaml.yaml</li>
   
-<p>The all next steps to train and evaluate model exist with details on google colab.</p>  
+<li>The all next steps to train and evaluate model exist with details on google colab.</li>  
   
 # Trained images
 
 <p>We have some trained images indicate of score for each type of fruit.</p> 
-<img src=''>
+<img src='https://github.com/khasaad/YOLO-V5_Transfer-Learning_for_computer_vision/blob/main/images/trained_images.jpg'>
 
 
 
