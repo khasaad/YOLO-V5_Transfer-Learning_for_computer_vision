@@ -1,0 +1,8 @@
+train: /content/deep_fruits_data/images/train
+val: /content/deep_fruits_data/images/val
+
+# number of classes
+nc: 6
+
+# {'apple': 0, 'avocado': 1, 'mango': 2, 'orange': 3, 'rockmelon': 4, 'strawberry': 5}
+names: ['apple', 'avocado', 'mango', 'orange', 'rockmelon', 'strawberry']
