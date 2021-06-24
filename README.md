@@ -2,7 +2,7 @@
 
 Key words: Deep Learning, Computer Vision, Object Detection, Neural Network, Python.
 
-In this project, you’ll learn how to fine-tune a pre-trained YOLO v5 model for detecting and classifying fruits items from images.
+In this project, you’ll learn how to fine-tune a pre-trained <a href='https://github.com/ultralytics/yolov5'>YOLO v5</a> model for detecting and classifying fruits items from images.
 
 Here’s what we’ll go over:
 
@@ -13,3 +13,5 @@ Here’s what we’ll go over:
 <li>Evaluate the model</li>
 <li>Look at some predictions</li>
 </ul>
+
+# Custom dataset
