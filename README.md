@@ -1,5 +1,7 @@
 # Object Detection on Custom Dataset with YOLO (v5) using PyTorch and Python
 
+<img src='https://github.com/khasaad/YOLO-V5_Transfer-Learning_for_computer_vision/blob/main/images/yolo%20v5%20image.jpg'>
+
 Key words: Deep Learning, Computer Vision, Object Detection, Neural Network, Python.
 
 In this project, you’ll learn how to fine-tune a pre-trained <a href='https://github.com/ultralytics/yolov5'>YOLO v5</a> model for object detection on Custom Dataset with YOLO (v5) using PyTorch and Python.
