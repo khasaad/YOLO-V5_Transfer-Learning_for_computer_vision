@@ -21,6 +21,9 @@ Here’s what we’ll go over:
 <p>First, we need to clean the dataset called <a href='https://github.com/khasaad/YOLO-V5_Transfer-Learning_for_computer_vision/tree/main/datasets'>datasets</a> to match with <a href='https://github.com/ultralytics/yolov5'>YOLO v5</a> open source github.</p> 
 <p>To do this, you need to use <a href='https://github.com/khasaad/YOLO-V5_Transfer-Learning_for_computer_vision/blob/main/cleaned_data.ipynb'>cleaned_data.ipynb</a></p>
 
+<p>A fruit image with boundries box:</p>
+<img src='https://github.com/khasaad/YOLO-V5_Transfer-Learning_for_computer_vision/blob/main/images/bounding%20box.png'>
+
 # Implementation code to clean data
 
 <ol>
@@ -61,6 +64,7 @@ Here’s what we’ll go over:
 $ <span class="pl-c1">cd</span> yolov5
 $ pip install -r requirements.txt</pre></li>
 <li>Add deep_fruits_yaml.yaml file in the following directory yolov5/data/ to obtain this path: yolov5/data/deep_fruits_yaml.yaml<li>
+<p>The all next steps to train and evaluate model exist with details on google colab.</p>  
 
 
 
