@@ -60,7 +60,12 @@ $ pip install -r requirements.txt</pre></li>
 # Trained images
 
 <p>We have some trained images indicate of score for each type of fruit.</p> 
+
+<p>Trained images jpeg format</p>
 <img src='https://github.com/khasaad/YOLO-V5_Transfer-Learning_for_computer_vision/blob/main/images/trained_images.jpg'>
+
+<p>Trained image gif format</p>
+<img src='https://github.com/khasaad/YOLO-V5_Transfer-Learning_for_computer_vision/blob/main/images/fruits_gif.gif'>
 
 
 
