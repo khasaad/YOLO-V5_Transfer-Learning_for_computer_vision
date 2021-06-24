@@ -62,12 +62,12 @@ Here’s what we’ll go over:
 <li>2. Install Python >= 3.6.0 required with all requirements.txt dependencies installed
 <pre>$ git clone https://github.com/ultralytics/yolov5
 $ <span class="pl-c1">cd</span> yolov5
-$ pip install -r requirements.txt</pre><li>
+$ pip install -r requirements.txt</pre></li>
 <li>Add deep_fruits_yaml.yaml file in the following directory yolov5/data/ to obtain this path: yolov5/data/deep_fruits_yaml.yaml<li>
   
 <p>The all next steps to train and evaluate model exist with details on google colab.</p>  
   
-# Trained 
+
 
 
 
