@@ -57,9 +57,9 @@ Here’s what we’ll go over:
 <ul>
 <li>1. Make folder <a href='https://github.com/khasaad/YOLO-V5_Transfer-Learning_for_computer_vision/tree/main/deep_fruits_data'>deep_fruits_data</a> with unzip format, then put it on the workspace of google colab, once the download of unzip file is finished, unzip it. (you will find the command line to unzip folder in google colab file)</li>
 <li>2. Install Python >= 3.6.0 required with all requirements.txt dependencies installed</li>
-  <pre>$ git clone https://github.com/ultralytics/yolov5
+<pre>$ git clone https://github.com/ultralytics/yolov5
 $ <span class="pl-c1">cd</span> yolov5
 $ pip install -r requirements.txt</pre>
 <li>Add deep_fruits_yaml.yaml file in the following directory yolov5/data/ to obtain this path: yolov5/data/deep_fruits_yaml.yaml<li>
-<li>The all next steps to train and evaluate model exist with detail on google colab.</li>  
+<li>The all next steps to train and evaluate model exist with details on google colab.</li>  
 </ul>
