@@ -6,6 +6,11 @@ Key words: Deep Learning, Computer Vision, Object Detection, Neural Network, Pyt
 
 In this project, you’ll learn how to fine-tune a pre-trained <a href='https://github.com/ultralytics/yolov5'>YOLO v5</a> model for object detection on Custom Dataset with YOLO (v5) using PyTorch and Python.
 
+# Definition of transfer learning
+
+<p>Transfer learning is a useful way to quickly retrain a model on new data without having to retrain the entire network. One of types of transfer learning is: </p>
+<p>Fine-Tuning: Unfreeze a few of the top layers of a frozen model base and jointly train both the newly-added classifier layers and the last layers of the base model. This allows us to "fine-tune" the higher-order feature representations in the base model in order to make them more relevant for the specific task.</p>
+
 # Custom dataset
 
 <p>The custom dataset is from <a href='https://exxact-robotics.com/'>Exxact Robotics</a> company which contains a set of fruits.</p>
